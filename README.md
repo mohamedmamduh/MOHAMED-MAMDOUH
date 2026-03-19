@@ -75,9 +75,11 @@ for idx, page_range in enumerate(split_ranges):
 
   ```
 
-</details>Result: 🚀 Transformed a 7-day manual workload into a 1-day automated process.2️⃣ Case Study: Dynamic Search Engine (11k+ Documents)The Challenge: Information fragmentation across multiple project logs impacting site productivity.The Solution: Built a dynamic retrieval tool using Advanced Excel Array Formulas.<details><summary>📑 View Excel Array Formula</summary>Excel=FILTER(
-
+</details>Result: 🚀 Transformed a 7-day manual workload into a 1-day automated process.2️⃣ Case Study: Dynamic Search Engine (11k+ Documents)The Challenge: Information fragmentation across multiple project logs impacting site productivity.The Solution: Built a dynamic retrieval tool using Advanced Excel Array Formulas.<details><summary>📑 View Excel Array Formula</summary>
+  
   ```
+  =FILTER(
+  
     VSTACK(
         'IR-STR-LOG.xlsx'!Table2[#Data],
         'DS-LOG.xlsx'!Table4[#Data],
