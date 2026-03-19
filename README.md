@@ -25,7 +25,7 @@ Solution: Developed a Python-based intelligent archiving pipeline to auto-split 
 <details>
 <summary>📑 Show Python Code</summary>
 
-Python
+'''Python
 import fitz  # PyMuPDF
 from PyPDF2 import PdfReader, PdfWriter
 
@@ -52,7 +52,9 @@ def split_pdf_by_a4_starts(input_path):
     for idx, page_range in enumerate(split_ranges):
         writer = PdfWriter()
         for p in page_range: writer.add_page(reader.pages[p])
-        with open(f"Request_{idx+1}.pdf", "wb") as f: writer.write(f)
+        with open(f"Request_{idx+1}.pdf", "wb") as f: writer.write(f) 
+        '''
+        
 </details>
 
 Result: Transformed a 7-day manual workload into a 1-day automated process.
