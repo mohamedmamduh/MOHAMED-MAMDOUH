@@ -32,7 +32,7 @@
 <details>
 <summary>📑 View Python Automation Code</summary>
 
-    ```python
+  ```python
 import fitz  # PyMuPDF
 from PyPDF2 import PdfReader, PdfWriter
 تعريف مقاس A4 بالبوينت
@@ -73,11 +73,11 @@ for idx, page_range in enumerate(split_ranges):
     شغّل السكريبت على ملفك
     split_pdf_by_a4_starts("input.pdf")
 
-    ```
+  ```
 
 </details>Result: 🚀 Transformed a 7-day manual workload into a 1-day automated process.2️⃣ Case Study: Dynamic Search Engine (11k+ Documents)The Challenge: Information fragmentation across multiple project logs impacting site productivity.The Solution: Built a dynamic retrieval tool using Advanced Excel Array Formulas.<details><summary>📑 View Excel Array Formula</summary>Excel=FILTER(
-    
-    ```
+
+  ```
     VSTACK(
         'IR-STR-LOG.xlsx'!Table2[#Data],
         'DS-LOG.xlsx'!Table4[#Data],
@@ -87,6 +87,6 @@ for idx, page_range in enumerate(split_ranges):
     (ISNUMBER(SEARCH(B1, VSTACK('RFI-LOG.xlsx'!Table22[Villa No.], ...)))),
     "No Match Found"
     )
-    ```
+  ```
     
 </details>Result: 🔍 85% improvement in retrieval speed for site engineers.💻 Technical Software StackEDMS: Oracle Aconex (Power User), SharePoint.Automation: Python (Pandas, PyMuPDF), VBA, PowerShell.Data Analysis: Microsoft Excel (Expert), Power Query, Power BI.Utilities: Bulk PDF Filler, Bulk Rename Utility, Adobe Acrobat Pro.💼 Professional ExperiencePeriodRoleCompany2025 - 2026Sr. Document Control SpecialistMass Group (New Administrative Capital)2024 - 2025Document Control SpecialistS2A General Contracting (5th Settlement)2022 - 2024Document Controller (Aconex)MODAD (Wesal Fit Out Projects)🎓 Education & CredentialsB.Sc. Agricultural Science | Al-Azhar University.Aconex Accredited Professional | Oracle Certified (2024).Google Data Analytics | Professional Certificate (2022).IELTS General Training | British Council.❓ Frequently Asked QuestionsAre you available to work in Dubai?Yes. I will be locally available in Dubai, UAE starting April 2, 2026.Do you specialize in automation?Absolutely. I replace manual "copy-paste" workflows with Python/VBA scripts to ensure 100% data integrity and speed.<p align="center"><b>Let's build something efficient together!</b><a href="https://www.linkedin.com/in/mohamed-mamdouh2020/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn"></a><a href="mailto:mamduh.mohamed@yahoo.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" alt="Email"></a></p>
